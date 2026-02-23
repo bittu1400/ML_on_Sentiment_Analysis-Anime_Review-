@@ -1,0 +1,16 @@
+After_EDA_data/
+archive/
+EDA_profiles.ipynb
+EDA_animes.ipynb
+LinearSVC/
+MultinomialNB/
+XGBClassifier/
+.idea/
+*.iml
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
