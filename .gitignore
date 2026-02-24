@@ -4,7 +4,6 @@ EDA_profiles.ipynb
 EDA_animes.ipynb
 LinearSVC/
 MultinomialNB/
-XGBClassifier/
 .idea/
 *.iml
 
